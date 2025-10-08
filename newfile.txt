@@ -1,0 +1,2 @@
+3req	rfsdcsaef
+print("Макс лох")
