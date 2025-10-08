@@ -1,2 +1,2 @@
 while not game over(game):
-	print()
+	print("The world!!!!")
