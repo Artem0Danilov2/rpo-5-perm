@@ -1,1 +1,2 @@
-while not game over(game)
+while not game over(game):
+	print()
